@@ -1,0 +1,8 @@
+C:\Users\victoria\source\repos\CrudOperationsInNetCore\CrudOperationsInNetCore\obj\Debug\net8.0\CrudOperationsInNetCore.csproj.AssemblyReference.cache
+C:\Users\victoria\source\repos\CrudOperationsInNetCore\CrudOperationsInNetCore\obj\Debug\net8.0\CrudOperationsInNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victoria\source\repos\CrudOperationsInNetCore\CrudOperationsInNetCore\obj\Debug\net8.0\CrudOperationsInNetCore.AssemblyInfoInputs.cache
+C:\Users\victoria\source\repos\CrudOperationsInNetCore\CrudOperationsInNetCore\obj\Debug\net8.0\CrudOperationsInNetCore.AssemblyInfo.cs
+C:\Users\victoria\source\repos\CrudOperationsInNetCore\CrudOperationsInNetCore\obj\Debug\net8.0\CrudOperationsInNetCore.csproj.CoreCompileInputs.cache
+C:\Users\victoria\source\repos\CrudOperationsInNetCore\CrudOperationsInNetCore\obj\Debug\net8.0\CrudOperationsInNetCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\victoria\source\repos\CrudOperationsInNetCore\CrudOperationsInNetCore\obj\Debug\net8.0\CrudOperationsInNetCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\victoria\source\repos\CrudOperationsInNetCore\CrudOperationsInNetCore\obj\Debug\net8.0\CrudOperationsInNetCore.sourcelink.json
