@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrudOperationsInNetCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5657a7839ae26b2554efd8f20a5a0e5f9b82826")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20a1e879781e2c19215ff1c13545008da3eae8ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrudOperationsInNetCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrudOperationsInNetCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
