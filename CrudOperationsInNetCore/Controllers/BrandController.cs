@@ -49,7 +49,7 @@ namespace CrudOperationsInNetCore.Controllers
             _dbContext.Brands.Add(brand);
             await _dbContext.SaveChangesAsync();
 
-            return CreatedAtAction(nameof(GetBrand, new { id = brand.Id }, brand));
+            return CreatedAtAction(nameof(GetBrand), new {id = brand.Id }, brand);
         }
 
     }
