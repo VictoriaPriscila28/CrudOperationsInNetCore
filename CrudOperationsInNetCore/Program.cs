@@ -30,3 +30,4 @@ app.MapControllers();
 app.Run();
 
 var novo = 
+    builder.Build();
