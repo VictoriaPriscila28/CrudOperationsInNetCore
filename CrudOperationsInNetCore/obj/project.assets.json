@@ -2441,9 +2441,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\victoria\\source\\repos\\CrudOperationsInNetCore\\CrudOperationsInNetCore\\CrudOperationsInNetCore.csproj",
-      "projectName": "CrudOperationsInNetCore",
-      "projectPath": "C:\\Users\\victoria\\source\\repos\\CrudOperationsInNetCore\\CrudOperationsInNetCore\\CrudOperationsInNetCore.csproj",
+      "projectUniqueName": "C:\\Users\\victoria\\source\\repos\\CrudOperationsInNetCore\\CrudOperationsInNetCore\\GerenciamentoBiblioteca.csproj",
+      "projectName": "GerenciamentoBiblioteca",
+      "projectPath": "C:\\Users\\victoria\\source\\repos\\CrudOperationsInNetCore\\CrudOperationsInNetCore\\GerenciamentoBiblioteca.csproj",
       "packagesPath": "C:\\Users\\victoria\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\victoria\\source\\repos\\CrudOperationsInNetCore\\CrudOperationsInNetCore\\obj\\",
       "projectStyle": "PackageReference",
