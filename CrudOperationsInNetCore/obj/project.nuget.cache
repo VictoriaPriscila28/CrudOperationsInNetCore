@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AK5YAFhcntDwUd8URDe3Rl+iLxMYJpRSeX8VNZZX93x9pydGKp6cSKCBXqkE8RjGb1yxxdqSHVRAKBoIz0no7w==",
+  "dgSpecHash": "P6YVKsLaY9QxEq3O928TbZc3e2MWD4Icm3MmOTjfW3FdqktvmfkFd5vuYTS3L0ogPsj0vE5bTzr2SsHESA4N6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\victoria\\source\\repos\\CrudOperationsInNetCore\\CrudOperationsInNetCore\\GerenciamentoBiblioteca.csproj",
+  "projectFilePath": "C:\\Users\\victoria\\Source\\Repos\\Team5FerreiraCosta\\CrudOperationsInNetCore\\GerenciamentoBiblioteca.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\victoria\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\victoria\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
